@@ -1,0 +1,40 @@
+{
+  "name": "mybot",
+  "version": "1.6.5",
+  "description": "a mad bot",
+  "main": "app.js",
+  "repository": {
+    "type": "none"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "keywords": [
+    "music",
+    "youtube",
+    "sound",
+    "playlist",
+    "send",
+    "voiceChannel",
+    "client",
+    "const"
+  ],
+  "author": "marcus",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "discord.js": "^11.3.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.1.1",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
